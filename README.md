@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [reshaditiya.github.io/frontendMentor-productPreviewCard](https://reshaditiya.github.io/frontendMentor-productPreviewCard)
+- Live Site URL: [github.com/reshaditiya/frontendMentor-productPreviewCard](https://github.com/reshaditiya/frontendMentor-productPreviewCard)
 
 ## My process
 
